@@ -1,5 +1,5 @@
 # cryptofont
-Cryptocurrency icon webfont and SVG V1.0.2
+Cryptocurrency icon webfont and SVG V1.0.2 - This is simply an NPM package copy, the original and author can be found here: https://github.com/cryptofont
 
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
 
